@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/lkullez/testing-with-jest#readme",
   "dependencies": {
+    "jest": "^24.8.0",
     "underscore": "^1.9.1"
   },
   "devDependencies": {
